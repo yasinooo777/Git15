@@ -1,8 +1,7 @@
 package Test;
 
-public class Logout {
+public class ReserveRoom {
     public static void main(String[] args) {
-// name
-        // comment
+        // team lead can reserve room
     }
 }
